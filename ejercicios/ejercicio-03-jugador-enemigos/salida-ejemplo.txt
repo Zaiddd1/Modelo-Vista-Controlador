@@ -1,0 +1,158 @@
+--- estado del combate ---
+Aventurero (nivel 1) salud: 100 arma: ninguna
+Goblin (Bestia, nivel 1) salud: 30
+Esqueleto (No muerto, nivel 2) salud: 40
+
+===== combate =====
+1. atacar
+2. usar objeto
+3. salir
+elige una opcion: 2
+1. espada de hierro (Arma) cantidad: 1
+2. daga (Arma) cantidad: 1
+3. pocion de vida (Pocion) cantidad: 3
+que objeto usas: 1
+equipaste espada de hierro
+Goblin te ataca y te quita 5 de salud
+Esqueleto se queda quieto
+
+--- estado del combate ---
+Aventurero (nivel 1) salud: 95 arma: espada de hierro
+Goblin (Bestia, nivel 1) salud: 30
+Esqueleto (No muerto, nivel 2) salud: 40
+
+===== combate =====
+1. atacar
+2. usar objeto
+3. salir
+elige una opcion: 1
+1. Goblin
+2. Esqueleto
+a que enemigo atacas: 1
+Aventurero ataca a Goblin y le quita 13 de salud
+Goblin te ataca y te quita 5 de salud
+Esqueleto te ataca y te quita 7 de salud
+
+--- estado del combate ---
+Aventurero (nivel 1) salud: 83 arma: espada de hierro
+Goblin (Bestia, nivel 1) salud: 17
+Esqueleto (No muerto, nivel 2) salud: 40
+
+===== combate =====
+1. atacar
+2. usar objeto
+3. salir
+elige una opcion: abc
+tienes que escribir un numero entero
+elige una opcion: 9
+opcion no valida
+
+--- estado del combate ---
+Aventurero (nivel 1) salud: 83 arma: espada de hierro
+Goblin (Bestia, nivel 1) salud: 17
+Esqueleto (No muerto, nivel 2) salud: 40
+
+===== combate =====
+1. atacar
+2. usar objeto
+3. salir
+elige una opcion: 2
+1. espada de hierro (Arma) cantidad: 1
+2. daga (Arma) cantidad: 1
+3. pocion de vida (Pocion) cantidad: 3
+que objeto usas: 3
+usaste pocion de vida y tu salud ahora es 100
+Goblin te ataca y te quita 5 de salud
+Esqueleto te ataca y te quita 7 de salud
+
+--- estado del combate ---
+Aventurero (nivel 1) salud: 88 arma: espada de hierro
+Goblin (Bestia, nivel 1) salud: 17
+Esqueleto (No muerto, nivel 2) salud: 40
+
+===== combate =====
+1. atacar
+2. usar objeto
+3. salir
+elige una opcion: 1
+1. Goblin
+2. Esqueleto
+a que enemigo atacas: 1
+Aventurero ataca a Goblin y le quita 13 de salud
+Goblin te ataca y te quita 5 de salud
+Esqueleto te ataca y te quita 7 de salud
+
+--- estado del combate ---
+Aventurero (nivel 1) salud: 76 arma: espada de hierro
+Goblin (Bestia, nivel 1) salud: 4
+Esqueleto (No muerto, nivel 2) salud: 40
+
+===== combate =====
+1. atacar
+2. usar objeto
+3. salir
+elige una opcion: 1
+1. Goblin
+2. Esqueleto
+a que enemigo atacas: 1
+Aventurero ataca a Goblin y le quita 13 de salud
+Goblin fue derrotado
+Esqueleto te ataca y te quita 7 de salud
+
+--- estado del combate ---
+Aventurero (nivel 1) salud: 69 arma: espada de hierro
+Esqueleto (No muerto, nivel 2) salud: 40
+
+===== combate =====
+1. atacar
+2. usar objeto
+3. salir
+elige una opcion: 1
+1. Esqueleto
+a que enemigo atacas: 1
+Aventurero ataca a Esqueleto y le quita 13 de salud
+Esqueleto se queda quieto
+
+--- estado del combate ---
+Aventurero (nivel 1) salud: 69 arma: espada de hierro
+Esqueleto (No muerto, nivel 2) salud: 27
+
+===== combate =====
+1. atacar
+2. usar objeto
+3. salir
+elige una opcion: 1
+1. Esqueleto
+a que enemigo atacas: 1
+Aventurero ataca a Esqueleto y le quita 13 de salud
+Esqueleto se queda quieto
+
+--- estado del combate ---
+Aventurero (nivel 1) salud: 69 arma: espada de hierro
+Esqueleto (No muerto, nivel 2) salud: 14
+
+===== combate =====
+1. atacar
+2. usar objeto
+3. salir
+elige una opcion: 1
+1. Esqueleto
+a que enemigo atacas: 1
+Aventurero ataca a Esqueleto y le quita 13 de salud
+Esqueleto te ataca y te quita 7 de salud
+
+--- estado del combate ---
+Aventurero (nivel 1) salud: 62 arma: espada de hierro
+Esqueleto (No muerto, nivel 2) salud: 1
+
+===== combate =====
+1. atacar
+2. usar objeto
+3. salir
+elige una opcion: 1
+1. Esqueleto
+a que enemigo atacas: 1
+Aventurero ataca a Esqueleto y le quita 13 de salud
+Esqueleto fue derrotado
+
+ganaste el combate

@@ -1,0 +1,131 @@
+===== inventario =====
+1. agregar item
+2. eliminar item
+3. ver inventario
+4. mostrar detalles de un item
+5. buscar item
+6. usar item
+7. salir
+elige una opcion: 1
+nombre del item: espada de hierro
+cantidad: 1
+tipo 1 arma o 2 pocion: 1
+descripcion: espada afilada de hierro
+item agregado al inventario
+
+===== inventario =====
+1. agregar item
+2. eliminar item
+3. ver inventario
+4. mostrar detalles de un item
+5. buscar item
+6. usar item
+7. salir
+elige una opcion: 1
+nombre del item: pocion de vida
+cantidad: 3
+tipo 1 arma o 2 pocion: 2
+descripcion: recupera 50 de salud
+item agregado al inventario
+
+===== inventario =====
+1. agregar item
+2. eliminar item
+3. ver inventario
+4. mostrar detalles de un item
+5. buscar item
+6. usar item
+7. salir
+elige una opcion: 3
+
+nombre | cantidad | tipo
+espada de hierro | 1 | Arma
+pocion de vida | 3 | Pocion
+
+===== inventario =====
+1. agregar item
+2. eliminar item
+3. ver inventario
+4. mostrar detalles de un item
+5. buscar item
+6. usar item
+7. salir
+elige una opcion: 4
+nombre del item: pocion de vida
+
+nombre: pocion de vida
+cantidad: 3
+tipo: Pocion
+descripcion: recupera 50 de salud
+
+===== inventario =====
+1. agregar item
+2. eliminar item
+3. ver inventario
+4. mostrar detalles de un item
+5. buscar item
+6. usar item
+7. salir
+elige una opcion: 5
+nombre a buscar: espada de hierro
+item encontrado: espada de hierro
+
+===== inventario =====
+1. agregar item
+2. eliminar item
+3. ver inventario
+4. mostrar detalles de un item
+5. buscar item
+6. usar item
+7. salir
+elige una opcion: 6
+nombre del item a usar: pocion de vida
+usaste una pocion de pocion de vida y te quedan 2
+
+===== inventario =====
+1. agregar item
+2. eliminar item
+3. ver inventario
+4. mostrar detalles de un item
+5. buscar item
+6. usar item
+7. salir
+elige una opcion: 6
+nombre del item a usar: espada de hierro
+atacaste con espada de hierro
+
+===== inventario =====
+1. agregar item
+2. eliminar item
+3. ver inventario
+4. mostrar detalles de un item
+5. buscar item
+6. usar item
+7. salir
+elige una opcion: 2
+nombre del item a eliminar: espada de hierro
+item eliminado
+
+===== inventario =====
+1. agregar item
+2. eliminar item
+3. ver inventario
+4. mostrar detalles de un item
+5. buscar item
+6. usar item
+7. salir
+elige una opcion: 3
+
+nombre | cantidad | tipo
+pocion de vida | 2 | Pocion
+
+===== inventario =====
+1. agregar item
+2. eliminar item
+3. ver inventario
+4. mostrar detalles de un item
+5. buscar item
+6. usar item
+7. salir
+elige una opcion: 7
+hasta luego

@@ -1,0 +1,190 @@
+===== tienda en linea =====
+1. agregar producto a la tienda
+2. listar productos
+3. agregar producto al carrito
+4. ver carrito
+5. eliminar producto del carrito
+6. aplicar descuento
+7. ver historial de compras
+8. realizar compra
+9. salir
+elige una opcion: 2
+
+id | nombre | precio | stock
+1 | laptop | S/ 2500.00 | 5
+2 | mouse | S/ 40.00 | 20
+3 | teclado | S/ 80.00 | 10
+
+===== tienda en linea =====
+1. agregar producto a la tienda
+2. listar productos
+3. agregar producto al carrito
+4. ver carrito
+5. eliminar producto del carrito
+6. aplicar descuento
+7. ver historial de compras
+8. realizar compra
+9. salir
+elige una opcion: 3
+
+id | nombre | precio | stock
+1 | laptop | S/ 2500.00 | 5
+2 | mouse | S/ 40.00 | 20
+3 | teclado | S/ 80.00 | 10
+id del producto: 2
+cantidad: 3
+producto agregado al carrito
+
+===== tienda en linea =====
+1. agregar producto a la tienda
+2. listar productos
+3. agregar producto al carrito
+4. ver carrito
+5. eliminar producto del carrito
+6. aplicar descuento
+7. ver historial de compras
+8. realizar compra
+9. salir
+elige una opcion: 3
+
+id | nombre | precio | stock
+1 | laptop | S/ 2500.00 | 5
+2 | mouse | S/ 40.00 | 20
+3 | teclado | S/ 80.00 | 10
+id del producto: 3
+cantidad: 1
+producto agregado al carrito
+
+===== tienda en linea =====
+1. agregar producto a la tienda
+2. listar productos
+3. agregar producto al carrito
+4. ver carrito
+5. eliminar producto del carrito
+6. aplicar descuento
+7. ver historial de compras
+8. realizar compra
+9. salir
+elige una opcion: 4
+
+id | producto | cantidad | subtotal
+2 | mouse | 3 | S/ 120.00
+3 | teclado | 1 | S/ 80.00
+subtotal: S/ 200.00
+descuento: S/ 0.00
+envio: S/ 0.00
+total a pagar: S/ 200.00
+
+===== tienda en linea =====
+1. agregar producto a la tienda
+2. listar productos
+3. agregar producto al carrito
+4. ver carrito
+5. eliminar producto del carrito
+6. aplicar descuento
+7. ver historial de compras
+8. realizar compra
+9. salir
+elige una opcion: 5
+
+id | producto | cantidad | subtotal
+2 | mouse | 3 | S/ 120.00
+3 | teclado | 1 | S/ 80.00
+subtotal: S/ 200.00
+descuento: S/ 0.00
+envio: S/ 0.00
+total a pagar: S/ 200.00
+id del producto a eliminar: 3
+producto eliminado del carrito
+
+===== tienda en linea =====
+1. agregar producto a la tienda
+2. listar productos
+3. agregar producto al carrito
+4. ver carrito
+5. eliminar producto del carrito
+6. aplicar descuento
+7. ver historial de compras
+8. realizar compra
+9. salir
+elige una opcion: 6
+codigo de descuento: DESC10
+descuento aplicado del 10.0%
+
+===== tienda en linea =====
+1. agregar producto a la tienda
+2. listar productos
+3. agregar producto al carrito
+4. ver carrito
+5. eliminar producto del carrito
+6. aplicar descuento
+7. ver historial de compras
+8. realizar compra
+9. salir
+elige una opcion: 4
+
+id | producto | cantidad | subtotal
+2 | mouse | 3 | S/ 120.00
+subtotal: S/ 120.00
+descuento: S/ 12.00
+envio: S/ 0.00
+total a pagar: S/ 108.00
+
+===== tienda en linea =====
+1. agregar producto a la tienda
+2. listar productos
+3. agregar producto al carrito
+4. ver carrito
+5. eliminar producto del carrito
+6. aplicar descuento
+7. ver historial de compras
+8. realizar compra
+9. salir
+elige una opcion: 8
+compra realizada con exito
+
+===== tienda en linea =====
+1. agregar producto a la tienda
+2. listar productos
+3. agregar producto al carrito
+4. ver carrito
+5. eliminar producto del carrito
+6. aplicar descuento
+7. ver historial de compras
+8. realizar compra
+9. salir
+elige una opcion: 7
+
+compra numero 1
+  mouse x3 = S/ 120.00
+  total pagado: S/ 108.00
+
+===== tienda en linea =====
+1. agregar producto a la tienda
+2. listar productos
+3. agregar producto al carrito
+4. ver carrito
+5. eliminar producto del carrito
+6. aplicar descuento
+7. ver historial de compras
+8. realizar compra
+9. salir
+elige una opcion: 2
+
+id | nombre | precio | stock
+1 | laptop | S/ 2500.00 | 5
+2 | mouse | S/ 40.00 | 17
+3 | teclado | S/ 80.00 | 10
+
+===== tienda en linea =====
+1. agregar producto a la tienda
+2. listar productos
+3. agregar producto al carrito
+4. ver carrito
+5. eliminar producto del carrito
+6. aplicar descuento
+7. ver historial de compras
+8. realizar compra
+9. salir
+elige una opcion: 9
+hasta luego
