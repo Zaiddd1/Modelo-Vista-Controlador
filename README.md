@@ -27,14 +27,6 @@ dedicada al patrón **Modelo–Vista–Controlador**:
 
 Cada carpeta es un programa independiente. Todo el código **compila con JDK 21**.
 
-## 👥 Integrantes
-
-| Código | Apellidos y Nombres |
-|---|---|
-| 2025001659 | Del Carpio Aspilcueta, Farid Andree |
-| 2025000158 | Rivera Montañez, Yeremi Rosa |
-| 2025002309 | Medina Llanquecha, Cesar Manuel |
-
 ---
 
 ## 🗂️ Estructura del repositorio
@@ -60,10 +52,9 @@ Modelo-Vista-Controlador/
 |---|---|---|
 | 1 | [`actividad-01-pedidos`](actividades/actividad-01-pedidos) | `Pedido`, `PedidoModelo`, `PedidoVista`, `PedidoControlador` y `Main`: el usuario agrega pedidos y ve la lista. Incluye `salida-ejemplo.txt`. |
 | 2 | [`actividad-02-pedidos-tipo`](actividades/actividad-02-pedidos-tipo) | Cada pedido tiene **nombre y tipo** (Entrada, Plato de fondo, Postre, Bebida). Se puede **eliminar**, **actualizar** el nombre, **buscar** por nombre o tipo y **contar** el total y por tipo. |
-| 3 | [`actividad-03-pedidos-estado`](actividades/actividad-03-pedidos-estado) | Los pedidos se pueden **marcar como completos**, **mostrar por estado** (todos, completos o pendientes) y se muestra el **contador de pendientes**. |
+| 3 | [`actividad-03-pedidos-estado`](actividades/actividad-03-pedidos-estado) | Cada pedido tiene un **estado** (Pendiente, Completo o Eliminado). Se puede **marcar como completo**, **eliminar**, **mostrar por estado** (pendientes o completos), ver el **contador de pendientes** y el **historial** de pedidos completos y eliminados. Incluye `salida-ejemplo.txt`. |
 
-> Las actividades 1 y 2 usan los paquetes `modelo`, `vista`, `controlador` y `main`; la actividad 3
-> está en el paquete por defecto. Se agregó un `Main.java` en la actividad 3 para poder ejecutarla.
+> Las tres actividades usan los paquetes `modelo`, `vista`, `controlador` y `main`.
 
 ## 📝 Ejercicios
 
@@ -79,15 +70,15 @@ Modelo-Vista-Controlador/
 
 Necesitas un **JDK 8 o superior**. Cada carpeta se compila por separado.
 
-Actividades 1 y 2 (con paquetes):
+Actividades (con paquetes):
 
 ```bash
-cd actividades/actividad-02-pedidos-tipo
+cd actividades/actividad-03-pedidos-estado
 javac -encoding UTF-8 -d out $(find . -name "*.java")
 java -cp out main.Main
 ```
 
-Actividad 3 y ejercicios (paquete por defecto):
+Ejercicios (paquete por defecto):
 
 ```bash
 cd ejercicios/ejercicio-03-jugador-enemigos

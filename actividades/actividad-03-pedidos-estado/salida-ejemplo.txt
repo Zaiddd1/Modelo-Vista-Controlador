@@ -1,0 +1,174 @@
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+1
+Introduce el nombre del plato:
+Lomo Saltado
+Pedido agregado: Lomo Saltado
+
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+1
+Introduce el nombre del plato:
+Ceviche
+Pedido agregado: Ceviche
+
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+1
+Introduce el nombre del plato:
+Arroz con Pollo
+Pedido agregado: Arroz con Pollo
+
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+5
+Pedidos pendientes: 3
+
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+2
+Lista de pedidos:
+1. Lomo Saltado (Pendiente)
+2. Ceviche (Pendiente)
+3. Arroz con Pollo (Pendiente)
+Introduce el numero del pedido:
+1
+Pedido completado: Lomo Saltado
+
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+3
+Lista de pedidos:
+1. Ceviche (Pendiente)
+2. Arroz con Pollo (Pendiente)
+Introduce el numero del pedido:
+2
+Pedido eliminado: Arroz con Pollo
+
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+4
+Ver pedidos:
+1. Pendientes
+2. Completos
+Seleccione una opcion:
+1
+Lista de pedidos:
+1. Ceviche (Pendiente)
+
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+4
+Ver pedidos:
+1. Pendientes
+2. Completos
+Seleccione una opcion:
+2
+Lista de pedidos:
+1. Lomo Saltado (Completo)
+
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+5
+Pedidos pendientes: 1
+
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+6
+Lista de pedidos:
+1. Lomo Saltado (Completo)
+2. Arroz con Pollo (Eliminado)
+
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+9
+Opcion no valida. Intentalo de nuevo.
+
+Opciones:
+1. Agregar Pedido
+2. Marcar Pedido como Completo
+3. Eliminar Pedido
+4. Mostrar Pedidos por Estado
+5. Contador de Pedidos Pendientes
+6. Historial de Pedidos
+7. Salir
+Seleccione una opcion:
+7
+Saliendo....
